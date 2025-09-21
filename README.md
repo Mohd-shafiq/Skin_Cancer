@@ -1,4 +1,4 @@
-# Skin Cancer Detection (HAM10000) — ResNet50 (PyTorch)
+# Skin Cancer Detection 
 
 A PyTorch project for classifying dermatoscopic images from the HAM10000 dataset into 7 lesion types using a ResNet50 backbone, with a simple Gradio demo for inference.
 
